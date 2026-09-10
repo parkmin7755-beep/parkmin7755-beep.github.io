@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "notes": "AI 편집 · 이퀄라이저 · 투명도 키프레임 · 자막 트랙 S1~S4 · 자동 판올림",
+  "version": "1.2.2",
+  "notes": "영상 엔진(ffmpeg) 없는 PC 문제 해결 — 켜면 [지금 설치] 띠가 뜹니다. 마이크·녹음·영상 안 뜨던 것 수정",
   "url": "https://github.com/parkmin7755-beep/parkmin7755-beep.github.io/releases/latest/download/MEL_CUT.exe"
 }
