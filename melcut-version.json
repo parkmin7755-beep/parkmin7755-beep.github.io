@@ -1,5 +1,5 @@
 {
-  "version": "1.2.4",
-  "notes": "링크받기가 막혔을 때 무엇을 하라고 알려 줍니다 — 유튜브·틱톡·인스타·도우인이 요구하는 쿠키 안내가 기록창에 그대로 뜹니다",
+  "version": "1.2.5",
+  "notes": "유튜브가 받아집니다 — 쿠키 파일에 더해 자바스크립트 실행기(Node.js)를 붙입니다. 실행기가 없으면 무엇을 깔지 알려 줍니다",
   "url": "https://github.com/parkmin7755-beep/parkmin7755-beep.github.io/releases/latest/download/MEL_CUT.exe"
 }
