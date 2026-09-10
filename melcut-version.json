@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "notes": "영상 엔진(ffmpeg) 없는 PC 문제 해결 — 켜면 [지금 설치] 띠가 뜹니다. 마이크·녹음·영상 안 뜨던 것 수정",
+  "version": "1.2.3",
+  "notes": "받은 PC에서 나던 문제들 수정 — 글꼴·효과음 누락, ffprobe 경로, WebView2 안내, 크롬 없을 때 엣지 사용",
   "url": "https://github.com/parkmin7755-beep/parkmin7755-beep.github.io/releases/latest/download/MEL_CUT.exe"
 }
