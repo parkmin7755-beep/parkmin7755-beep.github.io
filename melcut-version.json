@@ -1,5 +1,5 @@
 {
-  "version": "1.2.6",
-  "notes": "녹음으로 덮어쓰기 — 소리 조각을 눌러 녹음이나 다른 소리로 바꿀 수 있습니다. 업데이트를 눌러도 하던 작업이 저장됩니다",
+  "version": "1.2.7",
+  "notes": "조각 창 정리 — 「이 소리 바꾸기」를 「소리·속도」 뒤로 옮겼습니다",
   "url": "https://github.com/parkmin7755-beep/parkmin7755-beep.github.io/releases/latest/download/MEL_CUT.exe"
 }
